@@ -1,4 +1,6 @@
-<h1>Laravel Assignment: Thank You Message</h1>
-- Create a Contact Page <br> 
-- Display Thank You Message
+Disregard This Project
+Composer.json w/ errors 
 
+Note: created new project and copied over the work
+
+@copy-right: Riya 
